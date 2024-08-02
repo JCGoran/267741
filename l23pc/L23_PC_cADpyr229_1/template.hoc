@@ -29,6 +29,7 @@ San Francisco, California, 94105, USA.
 
 load_file("morphology.hoc")
 load_file("biophysics.hoc")
+load_file("synapses/synapses.hoc")
 
 /** Main cell template */
 begintemplate cADpyr229_L23_PC_5ecbf9b163
